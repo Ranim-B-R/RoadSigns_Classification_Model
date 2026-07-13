@@ -1,0 +1,3 @@
+0 Stop
+1 Pedestrian c...
+2 Hump
